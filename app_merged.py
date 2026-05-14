@@ -59,7 +59,7 @@ KPIS = [
     {'i':38, 'c':'KPI038','n':'Production mensuelle',          'u':'M DH',   'o':13.5,  's':12,    't':'max','m':'MPR4','r':'Dir.Atelier'},
     {'i':39, 'c':'KPI039','n':'Disponibilité machine',         'u':'%',      'o':90,    's':80,    't':'max','m':'MPR4','r':'Dir.Atelier'},
     {'i':40, 'c':'KPI040','n':'Formation Fabrication',         'u':'%',      'o':90,    's':85,    't':'max','m':'MPR4','r':'Dir.Atelier'},
-    {'i':41, 'c':'KPI041','n':'Gaines spiralées',              'u':'unités', 'o':0,     's':0,     't':'max','m':'MPR4','r':'Dir.Atelier'},
+    {'i':41, 'c':'KPI041','n':'Gaines spiralées',              'u':'unités', 'o':2002,     's':0,     't':'max','m':'MPR4','r':'Dir.Atelier'},
     {'i':42, 'c':'KPI042','n':'Commandes VM >48h',             'u':'%',      'o':1,     's':1.3,   't':'min','m':'MPS1','r':'Dir.Achat'},
     {'i':43, 'c':'KPI043','n':'Délai Carrier',                 'u':'sem.',   'o':1,     's':2,     't':'min','m':'MPS1','r':'Dir.Achat'},
     {'i':44, 'c':'KPI044','n':'Délai autres fourn.',           'u':'sem.',   'o':1,     's':2,     't':'min','m':'MPS1','r':'Dir.Achat'},
